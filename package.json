@@ -1,0 +1,12 @@
+{
+  "name": "202310-w1ch2-abel-jesus-andrea",
+  "version": "1.0.0",
+  "description": "## Nuestra web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
